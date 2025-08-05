@@ -1,0 +1,20 @@
+{
+    "usuario":[
+        {
+            "id":"1a",
+            "nome":"Jailson",
+            "email":"admin@admin.com.br",
+            "senha":"123456",
+            "status":"admin"
+        },
+            {
+            "id":"2a",
+            "nome":"Camille",
+            "email":"admin@admin.com.br",
+            "senha":"654321",
+            "status":"user"
+        }
+    ],
+    "produto":[]
+
+}
