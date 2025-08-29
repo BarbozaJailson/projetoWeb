@@ -6,5 +6,5 @@ import RoutesApp from './rotas.jsx'
 createRoot(document.getElementById('root')).render(
   <StrictMode>
     <RoutesApp />
-  </StrictMode>,
+  </StrictMode>
 )

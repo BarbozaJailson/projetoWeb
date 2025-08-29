@@ -1,20 +1,93 @@
 {
-    "usuario":[
-        {
-            "id":"1a",
-            "nome":"Jailson",
-            "email":"admin@admin.com.br",
-            "senha":"123456",
-            "status":"admin"
-        },
-            {
-            "id":"2a",
-            "nome":"Camille",
-            "email":"admin@admin.com.br",
-            "senha":"654321",
-            "status":"user"
-        }
-    ],
-    "produto":[]
-
+  "usuario": [
+    {
+      "id": "1a",
+      "nome": "Jailson",
+      "email": "admin@admin.com.br",
+      "senha": "123456",
+      "status": "admin"
+    },
+    {
+      "id": "2a",
+      "nome": "Camille",
+      "email": "admin@admin.com.br",
+      "senha": "654321",
+      "status": "user"
+    },
+    {
+      "id": "ce8a",
+      "nome": "jailson",
+      "email": "jailson@gmail.com",
+      "senha": "adm123456",
+      "nivelAcesso": "gerente",
+      "status": "ativo",
+      "foto": ""
+    },
+    {
+      "id": "8a02",
+      "nome": "fellipe",
+      "email": "admin@admin.com.br",
+      "senha": "654321",
+      "nivelAcesso": "user",
+      "status": "Ativo",
+      "foto": ""
+    },
+    {
+      "id": "e122",
+      "nome": "fdgfdg",
+      "descricao": "gdfgfd",
+      "preco": "5",
+      "status": "Ativo"
+    },
+    {
+      "id": "a15c",
+      "nome": "sfdfsdfsd",
+      "descricao": "fsdfsdfsdfsd",
+      "preco": "5555",
+      "status": "Ativo"
+    },
+    {
+      "id": "d640",
+      "nome": "jailson",
+      "descricao": "fellepe 10",
+      "preco": "dfsdfsdfsd",
+      "status": "Ativo"
+    },
+    {
+      "id": "afa5",
+      "nome": "dfdsfdsfd",
+      "email": "fellipe@admin.com.br",
+      "senha": "123456789",
+      "nivelAcesso": "user",
+      "status": "Ativo",
+      "foto": ""
+    },
+    {
+      "id": "a7dd",
+      "nome": "jailson",
+      "email": "jailson.100vicio@hotmail.com",
+      "senha": "fellipe10",
+      "nivelAcesso": "",
+      "status": "",
+      "foto": ""
+    },
+    {
+      "id": "7fd5",
+      "nome": "fellipe",
+      "email": "fellipe@hotmail.com.br",
+      "senha": "123456",
+      "nivelAcesso": "user",
+      "status": "Ativo",
+      "foto": ""
+    }
+  ],
+  "produto": [
+    {
+      "id": "18bb",
+      "nome": "dfsdfsd",
+      "descricao": "sdfsdfsdf",
+      "preco": "11111",
+      "status": "Ativo"
+    }
+  ]
 }

@@ -7,9 +7,9 @@ header {
     justify-content: space-between;
     padding: 0 20px;
     height: 120px;
-    background-color: #2E8B57; /* Verde escuro, remetendo à Itália */
+    background-color: #2f00ff; /* Verde escuro, remetendo à Itália */
     color: white;
-    border-bottom: 5px solid #FF6347; /* Vermelho tomate */
+    border-bottom: 5px solid #e6ff01; /* Vermelho tomate */
 }
 
 /* Menu de navegação */
@@ -51,7 +51,7 @@ border-style: dashed;
     margin-top: 30px;
     font-size: 28px;
     font-weight: bold;
-    color: #2E8B57; /* Verde escuro */
+    color: #2f00ff; /* Verde escuro */
 }
 
 .app-container {
@@ -71,7 +71,7 @@ border-style: dashed;
   
   label {
     font-weight: bold;
-    color: #008000; /* Verde da bandeira */
+    color: #2f00ff; /* Verde da bandeira */
     display: block;
     margin-bottom: 5px;
   }
@@ -81,7 +81,7 @@ border-style: dashed;
   input[type="password"] {
     width: 100%;
     padding: 10px;
-    border: 2px solid #008000; /* Borda verde */
+    border: 2px solid #2f00ff; /* Borda verde */
     border-radius: 5px;
     font-size: 16px;
     box-sizing: border-box;
@@ -112,7 +112,7 @@ input::placeholder {
   .form-group button {
     width: 100%;
     padding: 10px;
-    background-color: #2E8B57; /* Botão vermelho */
+    background-color: #2f00ff; /* Botão vermelho */
     color: white;
     border: none;
     border-radius: 5px;
@@ -130,7 +130,7 @@ input::placeholder {
 }
 
 .register-link a {
-    color: #2E8B57; /* Verde italiano */
+    color: #2f00ff; /* Verde italiano */
     text-decoration: none;
     font-weight: bold;
 }
@@ -170,7 +170,7 @@ input::placeholder {
 
 button {
   padding: 10px;
-  background-color: #2E8B57;
+  background-color: #2f00ff;
   color: white;
   border: none;
   border-radius: 5px;
